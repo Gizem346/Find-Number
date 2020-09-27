@@ -1,0 +1,41 @@
+/* body {
+    background-image: url(./guess_number.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div {
+    text-align: center;
+    margin-top: 150px;
+}
+
+p {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+#text {
+    width: 180px;
+    height: 30px;
+    text-align: center;
+}
+
+#button {
+    width: 90px;
+    height: 36px;
+} */
+
+
+body {
+    text-align: center;
+    margin: 10px;
+    background-image: url(./guess_number.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #wstep {
+    text-align: center;
+    color: #000;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-weight: bold;
+  }
