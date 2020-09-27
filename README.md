@@ -1,3 +1,5 @@
+My site published at https://gizem346.github.io/Find-Number/
+
 # Project-005 : Find the Number Game (JS-02)
 
 ## Description
